@@ -1,0 +1,14 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+.wrapper {
+  min-height: 100vh;
+  background: rgb(183, 229, 221);
+}
+.fa-solid {
+  background: rgb(64, 144, 85);
+  color: white;
+  border-radius: 50%;
+  padding: 1rem;
+}
